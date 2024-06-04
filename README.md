@@ -18,11 +18,17 @@ Bitte beachten Sie, dass Sie möglicherweise die Ausführungsrichtlinie in Power
 Am Ende wird eine Übersichtstabelle angezeigt:
 
 Port Status
----- ------
+---- ------------
  443 Geschlossen
+---- ------------
   80 Geschlossen
+---- ------------
 8080 Geschlossen
+---- ------------
 5900 Geschlossen
+---- ------------
 1397 Geschlossen
+---- ------------
 5000 Geschlossen
+---- ------------
 5938 Geschlossen
